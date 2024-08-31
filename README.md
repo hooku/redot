@@ -6,4 +6,5 @@ The project is created by [Samsung's Watch Face Studio](https://developer.samsun
 
 |Screenshot|Version|
 |---|---|
+|![Redot 0.2](screenshot/redot_0.2.png?raw=true)|0.2|
 |![Redot 0.1](screenshot/redot_0.1.png?raw=true)|0.1|
